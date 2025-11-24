@@ -1,4 +1,4 @@
-# User manual
+https://dl.google.com/android/repository/platform-tools-latest-darwin.zip# User manual
 
 [[toc]]
 
